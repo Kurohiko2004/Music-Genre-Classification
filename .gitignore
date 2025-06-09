@@ -1,0 +1,22 @@
+# Thư mục môi trường ảo của Python
+Music-Genre-venv/
+venv/
+.venv/
+
+# Thư mục dữ liệu training và test
+TrainFiles/
+TestFiles/
+Resources/
+
+# Thư mục cache của Gradio
+.gradio/
+
+# File dữ liệu được tạo ra
+data_set.csv
+
+# Cache và file tạm của Python/IDE
+__pycache__/
+*.pyc
+.vscode/
+*.pkl
+scalar.pkl
